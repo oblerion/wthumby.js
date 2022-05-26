@@ -1,5 +1,6 @@
 # wthumby.js
 emulate [thumby](https://thumby.us/) on web with js api<br>
+see API [here](https://github.com/oblerion/wthumby.js/wiki)
 ## example main.js
 
 let dx=0;<br>
