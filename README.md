@@ -1,4 +1,5 @@
 # wthumby.js
+emulate [thumby](https://thumby.us/) on web with js api<br>
 ## example main.js
 
 let dx=0;<br>
