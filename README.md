@@ -15,7 +15,7 @@ WTU=function()
 	if(wtu.buttonL.pressed()==true) dx=dx-1;
 	if(wtu.buttonR.pressed()==true) dx=dx+1;
   //                      drawSprite(sprite,x,y)
-	&emsp;wtu.display.drawSprite(spr1,dx,dy);
-	&emsp;wtu.display.update();
+	wtu.display.drawSprite(spr1,dx,dy);
+	wtu.display.update();
 }
 ```
